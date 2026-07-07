@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "dependencies": {
+    "bullmq": "^5.79.3",
+    "express": "^5.2.1",
+    "ioredis": "^5.11.1",
+    "mongoose": "^9.7.4",
+    "multer": "^2.2.0",
+    "pdfjs-dist": "^6.1.200"
+  }
+}
